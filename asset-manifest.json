@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pawfectmatch/static/css/main.0752e3fa.css",
+    "main.js": "/pawfectmatch/static/js/main.5ca9f3c7.js",
+    "static/js/453.e54053d2.chunk.js": "/pawfectmatch/static/js/453.e54053d2.chunk.js",
+    "index.html": "/pawfectmatch/index.html",
+    "main.0752e3fa.css.map": "/pawfectmatch/static/css/main.0752e3fa.css.map",
+    "main.5ca9f3c7.js.map": "/pawfectmatch/static/js/main.5ca9f3c7.js.map",
+    "453.e54053d2.chunk.js.map": "/pawfectmatch/static/js/453.e54053d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0752e3fa.css",
+    "static/js/main.5ca9f3c7.js"
+  ]
+}
