@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./componets/Home/Home";
 import './index.css'; // Ensure Tailwind CSS is imported
 import Quiz from "./componets/Quiz/Quiz";
